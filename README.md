@@ -1,2 +1,2 @@
 # Full-website-design
-Sticky website full design
+Static website full design
